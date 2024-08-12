@@ -22,7 +22,7 @@ body {
   margin: 30px 0 10px 0;
   font-size: 32px;
   line-height: 1.2;
-  font-family: "Helvetica Neue";
+  font-family: "Verdana";
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -38,7 +38,7 @@ body {
 }
 
 .h2 {
-  font-family: "Helvetica Neue";
+  font-family: "Verdana";
   font-size: 24px;
   line-height: 1.4;
   margin: 15px;
